@@ -21,6 +21,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#2](https://github.com/skd1993/nsa-plymouth/issues/2) in [skd1993/nsa-plymouth](https://github.com/skd1993/nsa-plymouth)
 <!--END_SECTION:activity-->
 
 </details>
