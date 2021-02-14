@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [<img align="left" alt="lonewol7f | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="lonewol7f | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1613042016~hmac=da723e6a8e6c8b6ec948964bf1522818" />][instagram]
+[<img align="left" alt="lonewol7f | Instagram" width="22px" src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png?w=300" />][instagram]
 [<img align="left" alt="adi1090x | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
 <br />
