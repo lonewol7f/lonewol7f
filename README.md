@@ -25,7 +25,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/skd1993/nsa-plymouth/issues/2) in [skd1993/nsa-plymouth](https://github.com/skd1993/nsa-plymouth)
+1. 🎉 Merged PR [#1](https://github.com/lonewol7f/SoundSpace/pull/1) in [lonewol7f/SoundSpace](https://github.com/lonewol7f/SoundSpace)
 <!--END_SECTION:activity-->
 
 </details>
