@@ -25,7 +25,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/lonewol7f/SoundSpace/pull/1) in [lonewol7f/SoundSpace](https://github.com/lonewol7f/SoundSpace)
+1. 💪 Opened PR [#1](https://github.com/lonewol7f/Test/pull/1) in [lonewol7f/Test](https://github.com/lonewol7f/Test)
 <!--END_SECTION:activity-->
 
 </details>
