@@ -11,7 +11,7 @@
 
 <br>
 
-### :mailbox: Connect with me:
+#### :mailbox: Connect with me
 
  [![Linkedin Badge](https://img.shields.io/badge/-Kalana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
 [![Mail Badge](https://img.shields.io/badge/-@kalana____madusanka-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
