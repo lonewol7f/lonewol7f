@@ -7,7 +7,7 @@
 
 ---
 
-  <img align="center" alt="lonewol7f's GitHub Stats" src="https://github-readme-stats.lonewol7f.vercel.app/api?username=lonewol7f&show_icons=true&hide_border=true&theme=dracula"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="lonewol7f's Most Used Languages" src="https://github-readme-stats.lonewol7f.vercel.app/api/top-langs/?username=lonewol7f&layout=compact&theme=dracula"/>
+  <img align="center" alt="lonewol7f's GitHub Stats" src="https://github-readme-stats.lonewol7f.vercel.app/api?username=lonewol7f&show_icons=true&hide_border=true&theme=dracula"/>&nbsp;&nbsp;&nbsp;<img align="center" alt="lonewol7f's Most Used Languages" src="https://github-readme-stats.lonewol7f.vercel.app/api/top-langs/?username=lonewol7f&layout=compact&theme=dracula"/>
 
 <br>
 
