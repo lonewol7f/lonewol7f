@@ -7,7 +7,7 @@
 
 ---
 
-  <img align="center" alt="lonewol7f's GitHub Stats" src="https://github-readme-stats.lonewol7f.vercel.app/api?username=lonewol7f&show_icons=true&hide_border=true&theme=dracula"/>&nbsp;<img align="center" alt="lonewol7f's Most Used Languages" src="https://github-readme-stats.lonewol7f.vercel.app/api/top-langs/?username=lonewol7f&layout=compact&theme=dracula"/>
+  <img align="center" alt="lonewol7f's GitHub Stats" src="https://github-readme-stats.lonewol7f.vercel.app/api?username=lonewol7f&show_icons=true&hide_border=true&theme=dracula"/>&nbsp;<img align="center" alt="lonewol7f's Most Used Languages" src="https://github-readme-stats.lonewol7f.vercel.app/api/top-langs/?username=lonewol7f&layout=compact&theme=dracula&hide_border=true"/>
 
 <br>
 
@@ -30,31 +30,42 @@
 
 ---
 
-:zap: Recent GitHub Activity
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/lonewol7f/EnLearn/pull/31) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
-<!--END_SECTION:activity-->
+<details>
 
+  <summary>:zap: Recent GitHub Activity</summary>
+    
+  <!--START_SECTION:activity-->
+  1. 🎉 Merged PR [#31](https://github.com/lonewol7f/EnLearn/pull/31) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
+  <!--END_SECTION:activity-->
+
+</details>
 
 ---
 
-&nbsp;&nbsp;&nbsp;<a href="https://github.com/lonewol7f/FixBid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewol7f&repo=FixBid&theme=dracula&show_owner=true" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/lonewol7f/SoundSpace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewol7f&repo=SoundSpace&theme=dracula&show_owner=true" />
-</a>
 
-<br>
+<details>
 
-&nbsp;&nbsp;&nbsp;<a href="https://github.com/lonewol7f/JavaCRUD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewol7f&repo=JavaCRUD&theme=dracula&show_owner=true" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/lonewol7f/diceGame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewol7f&repo=diceGame&theme=dracula&show_owner=true" />
-</a>
+  <summary>:pushpin: Pinned Repositories</summary>
 
+  <br>
+  
+  &nbsp;&nbsp;&nbsp;<a href="https://github.com/lonewol7f/FixBid">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewol7f&repo=FixBid&theme=dracula&show_owner=true&hide_border=true" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/lonewol7f/SoundSpace">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewol7f&repo=SoundSpace&theme=dracula&show_owner=true&hide_border=true" />
+  </a>
+
+  <br>
+
+  &nbsp;&nbsp;&nbsp;<a href="https://github.com/lonewol7f/JavaCRUD">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewol7f&repo=JavaCRUD&theme=dracula&show_owner=true&hide_border=true" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/lonewol7f/diceGame">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewol7f&repo=diceGame&theme=dracula&show_owner=true&hide_border=true" />
+  </a>
+
+</details>
 
 <!-- List of web sites -->
 
