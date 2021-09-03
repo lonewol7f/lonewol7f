@@ -35,7 +35,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/lonewol7f/EnLearn/pull/32) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
+1. 🎉 Merged PR [#33](https://github.com/lonewol7f/EnLearn/pull/33) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
   <!--END_SECTION:activity-->
 
 </details>
