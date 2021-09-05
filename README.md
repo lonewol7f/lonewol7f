@@ -22,6 +22,11 @@
 ![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&labelColor=black&logo=Angular&logoColor=red) ![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc) ![Java Badge](https://img.shields.io/badge/-Java-gold?style=for-the-badge&labelColor=black&logo=java&logoColor=gold) ![Spring Badge](https://img.shields.io/badge/-Spring_Boot-green?style=for-the-badge&labelColor=black&logo=springboot&logoColor=green) ![MySql Badge](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
 
 
+#### 🏆 Trophies
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=lonewol7f&title=MultiLanguage,Commit,Followers,Repositories,PullRequest,Issues&column=7&margin-w=15&margin-h=15&theme=dracula"/>
+
+
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lonewol7f.lonewol7f)
@@ -35,7 +40,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
     
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#37](https://github.com/lonewol7f/EnLearn/pull/37) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
+  
+  
+  
+  
+  
   <!--END_SECTION:activity-->
 
 </details>
