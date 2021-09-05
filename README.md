@@ -35,7 +35,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/lonewol7f/Sample-CRUD/pull/3) in [lonewol7f/Sample-CRUD](https://github.com/lonewol7f/Sample-CRUD)
+1. 💪 Opened PR [#7](https://github.com/lonewol7f/Sample-CRUD/pull/7) in [lonewol7f/Sample-CRUD](https://github.com/lonewol7f/Sample-CRUD)
   <!--END_SECTION:activity-->
 
 </details>
