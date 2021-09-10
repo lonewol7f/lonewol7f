@@ -40,11 +40,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/lonewol7f/EnLearn/pull/61) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
-2. 🎉 Merged PR [#60](https://github.com/lonewol7f/EnLearn/pull/60) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
-3. 🎉 Merged PR [#54](https://github.com/lonewol7f/EnLearn/pull/54) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
-4. 🎉 Merged PR [#57](https://github.com/lonewol7f/EnLearn/pull/57) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
-5. ❌ Closed PR [#56](https://github.com/lonewol7f/EnLearn/pull/56) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
+1. 🎉 Merged PR [#62](https://github.com/lonewol7f/EnLearn/pull/62) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
+2. 🎉 Merged PR [#61](https://github.com/lonewol7f/EnLearn/pull/61) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
+3. 🎉 Merged PR [#60](https://github.com/lonewol7f/EnLearn/pull/60) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
+4. 🎉 Merged PR [#54](https://github.com/lonewol7f/EnLearn/pull/54) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
+5. 🎉 Merged PR [#57](https://github.com/lonewol7f/EnLearn/pull/57) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
   <!--END_SECTION:activity-->
 
 </details>
