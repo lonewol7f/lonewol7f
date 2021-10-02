@@ -49,7 +49,7 @@
 
 </details>
 
----
+<!-- ---
 
 
 <details>
@@ -74,7 +74,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewol7f&repo=diceGame&theme=dracula&show_owner=true&hide_border=true" />
   </a>
 
-</details>
+</details> -->
 
 <!-- List of web sites -->
 
