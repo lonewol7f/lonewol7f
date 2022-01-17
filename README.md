@@ -2,8 +2,8 @@
 
 ### I'm a Student and Developer!!
 
-- 🌱 I’m currently learning Java 😎
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Python 😎
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ---
 
