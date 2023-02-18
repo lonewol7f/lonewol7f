@@ -2,8 +2,8 @@
 
 ### I'm a Student and Developer!!
 
-- 🌱 I’m currently learning Python 😎
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Python - TensorFlow 😎
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ---
 
